@@ -1,1 +1,1 @@
-# C_DSA
+Here, our aim is to find the maximum element in an array and we'll first find the length of the array in order to loop over every element. Using a variable initialized to zero, we'll be comparing it to each array element for every iteration and every time its value is less than the array element, we'll assign that value to the 'maximum array element variable'. At the end of all iterations, the function for estimating the maximum array element will return that integer which will be printed to the console.
